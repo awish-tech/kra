@@ -1,0 +1,77 @@
+.btn_style {
+	background-color:#ff0613;
+	color:#fff;
+	border: none;
+
+}
+
+.btn_style:hover {
+	background-color: #d80000;
+}
+
+/*Registration for Kenyans only*/
+.for_kenyans {
+	display: none;
+}
+
+
+.for_kenyans_visible {
+	display: all;
+}
+
+/* Footer */
+footer {
+	border-top: none;
+	background-color: #424242;
+	padding: 50px;
+}
+.footer_top, .nav_title {
+	color: #eee;
+	font-size: 1.1em;
+	margin-bottom: 15px;
+	font-weight: 500;
+}
+
+.footer_address {
+	color: #ccc;
+}
+
+.footer_nav li a {
+	font-size: .85em;
+	color: #ccc;
+	text-decoration: none;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.footer_top .row .col-sm-6 {
+	padding-left: 15px;
+	padding-right: 15px;
+	min-height: 1px;
+}
+
+.logo, .pinHeader {
+	float: left!important;
+}
+
+.logo, .pinHeader {
+	margin-right: 40px;
+}
+
+.contacts_certificate {
+	float: right;
+	margin-left: 100px;
+	font-size: 12px;
+}
+
+.line {
+	clear: both;
+}
+
+.certify {
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
